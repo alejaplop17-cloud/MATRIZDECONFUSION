@@ -1,0 +1,6 @@
+{
+  "name": "Confusion Matrix Quest",
+  "description": "Plataforma educativa interactiva tipo videojuego para aprender, entrenar modelos de clasificación e interpretar matrices de confusión con tus propios datos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
